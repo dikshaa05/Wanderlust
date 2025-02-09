@@ -10,7 +10,7 @@ Wanderlust is a travel-related web application built using **Bootstrap**, **Node
 
 ## Technologies Used
 - **Frontend**: 
-  - HTML, CSS, JavaScript, EJS, Bootstrap
+  - EJS, CSS, JavaScript, Bootstrap
 - **Backend**:
   - Node.js, Express.js, MongoDB
 - **Libraries/Tools**:
