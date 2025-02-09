@@ -21,7 +21,7 @@ Wanderlust is a travel-related web application built using **Bootstrap**, **Node
 ## Installation
 
    ```bash
-   git clone https://github.com/dikshaa05/Wanderlust.git &&   cd dikshaa05-Wanderlust
+   git clone https://github.com/dikshaa05/Wanderlust.git && cd dikshaa05-Wanderlust
    ```
    ```
    npm install
